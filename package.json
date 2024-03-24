@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.1",
-    "express-handlebars": "^7.1.2"
+    "express-handlebars": "^7.1.2",
+    "tenorjs": "^1.0.10"
   }
 }
